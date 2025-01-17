@@ -126,7 +126,7 @@ export default function Footer() {
             </p>
             <div className="credits">
               Designed by{" "}
-              <a href="https://santatra-michado.com/">Santatra-miochado.com</a>
+              <a href="https://santatra-michado.com/">Santatra-michado.com</a>
             </div>
           </div>
         </div>
