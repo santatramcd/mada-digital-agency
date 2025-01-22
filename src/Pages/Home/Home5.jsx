@@ -1,5 +1,5 @@
 import React from "react";
-import Cta from "../../assets/img/cta-bg.jpg"
+import Cta from "../../assets/img/cta-bg.jpg";
 
 export default function Home() {
   return (
@@ -20,15 +20,16 @@ export default function Home() {
             >
               <div className="col-xl-10">
                 <div className="text-center">
-                  <h3>Call To Action</h3>
+                  <h3>Appelez à l'Action</h3>
                   <p>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.
+                    Vous avez un projet digital en tête ? Notre équipe d'experts
+                    est là pour vous aider à le réaliser, qu'il s'agisse d'un
+                    site web, d'une application ou d'une stratégie de marketing
+                    digital. Contactez-nous dès maintenant pour transformer vos
+                    idées en réalité !
                   </p>
                   <a className="cta-btn" href="#">
-                    Call To Action
+                    Contactez-nous
                   </a>
                 </div>
               </div>

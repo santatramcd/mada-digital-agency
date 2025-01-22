@@ -15,9 +15,9 @@ export default function Home() {
             >
               <div class="col-xl-6 col-lg-8">
                 <h2>
-                Welcome to Mada Digital Agency<span>.</span>
+                Welcome to E-freelancer<span>.</span>
                 </h2>
-                <p>We are team of talented digital marketers</p>
+                <p>Nous sommes une équipe de spécialistes du marketing numérique talentueux</p>
               </div>
             </div>
 
@@ -34,7 +34,7 @@ export default function Home() {
                 <div class="icon-box">
                   <i class="bi bi-binoculars"></i>
                   <h3>
-                    <a href="">Lorem Ipsum</a>
+                    <a href="">SEO</a>
                   </h3>
                 </div>
               </div>
@@ -46,7 +46,7 @@ export default function Home() {
                 <div class="icon-box">
                   <i class="bi bi-bullseye"></i>
                   <h3>
-                    <a href="">Dolor Sitema</a>
+                    <a href="">Développement Web</a>
                   </h3>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export default function Home() {
                 <div class="icon-box">
                   <i class="bi bi-fullscreen-exit"></i>
                   <h3>
-                    <a href="">Sedare Perspiciatis</a>
+                    <a href="">Sécurité Web</a>
                   </h3>
                 </div>
               </div>
@@ -70,7 +70,7 @@ export default function Home() {
                 <div class="icon-box">
                   <i class="bi bi-card-list"></i>
                   <h3>
-                    <a href="">Magni Dolores</a>
+                    <a href="">E-Commerce</a>
                   </h3>
                 </div>
               </div>
@@ -82,7 +82,7 @@ export default function Home() {
                 <div class="icon-box">
                   <i class="bi bi-gem"></i>
                   <h3>
-                    <a href="">Nemos Enimade</a>
+                    <a href="">Intégrateur Web</a>
                   </h3>
                 </div>
               </div>

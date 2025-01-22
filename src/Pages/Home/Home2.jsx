@@ -12,30 +12,27 @@ export default function Home() {
 <section id="about" className="about section">
 
 <div className="container" data-aos="fade-up" data-aos-delay="100">
-
   <div className="row gy-4">
     <div className="col-lg-6 order-1 order-lg-2">
-      <img src={About} className="img-fluid" alt=""></img>
+      <img src={About} className="img-fluid" alt="Image À propos" />
     </div>
     <div className="col-lg-6 order-2 order-lg-1 content">
-      <h3>Voluptatem dignissimos provident</h3>
+      <h3>Nos Services Freelance</h3>
       <p className="fst-italic">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.
+        Nous sommes une équipe d'e-freelancers expérimentés prêts à vous aider à développer votre entreprise avec des solutions numériques innovantes.
       </p>
       <ul>
-        <li><i className="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-        <li><i className="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-        <li><i className="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+        <li><i className="bi bi-check2-all"></i> <span>Développement de sites web sur mesure, adaptés à vos besoins.</span></li>
+        <li><i className="bi bi-check2-all"></i> <span>Stratégies SEO pour améliorer votre visibilité en ligne et augmenter votre trafic.</span></li>
+        <li><i className="bi bi-check2-all"></i> <span>Conception graphique et création de logos pour renforcer l'identité de votre marque.</span></li>
       </ul>
       <p>
-        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+        En tant qu'e-freelancers, nous sommes fiers d'offrir des services professionnels en développement web, marketing digital, design graphique et rédaction de contenu. Que vous souhaitiez créer un nouveau site web, optimiser votre SEO, ou concevoir un logo, nous avons l'expertise pour concrétiser votre vision.
       </p>
     </div>
   </div>
-
 </div>
+
 
 </section>
 </div>

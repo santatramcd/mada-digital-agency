@@ -59,7 +59,7 @@ export default function Home() {
         <section id="portfolio" className="portfolio section">
           <div className="container section-title" data-aos="fade-up">
             <h2>Portfolio</h2>
-            <p>Check our Portfolio</p>
+            <p>Découvrez notre portfolio</p>
           </div>
 
           <div className="container">

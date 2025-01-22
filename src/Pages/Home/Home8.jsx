@@ -17,7 +17,7 @@ export default function Home() {
 
       <div className="container section-title" data-aos="fade-up">
         <h2>Team</h2>
-        <p>our Team</p>
+        <p>Nos Team</p>
       </div>
 
       <div className="container">

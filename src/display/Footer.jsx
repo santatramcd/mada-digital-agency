@@ -93,20 +93,15 @@ export default function Footer() {
               </div>
 
               <div className="col-lg-4 col-md-12 footer-newsletter">
-                <h4>Our Newsletter</h4>
+                <h4>Notre Newsletter</h4>
                 <p>
-                  Subscribe to our newsletter and receive the latest news about
-                  our products and services!
+                  Abonnez-vous à notre newsletter et recevez les dernières
+                  nouvelles concernant nos produits et services !
                 </p>
                 <form>
                   <div className="newsletter-form">
-                    <input type="email" />{" "}
-                    <input type="submit" value="Subscribe" />
-                  </div>
-                  <div className="loading">Loading</div>
-                  <div className="error-message"></div>
-                  <div className="sent-message">
-                    Your subscription request has been sent. Thank you!
+                    <input type="email" placeholder="Votre email" />
+                    <input type="submit" value="S'abonner" />
                   </div>
                 </form>
                 <form method="post" className="php-email-form"></form>
