@@ -57,7 +57,7 @@ export default function Navbar() {
             ></i>
           </nav>
 
-          <a className="btn-getstarted" href="#">
+          <a className="btn-getstarted" href="#contact">
             Get Started
           </a>
         </div>
