@@ -15,7 +15,7 @@ export default function Home() {
             >
               <div class="col-xl-6 col-lg-8">
                 <h2>
-                Welcome to E-freelancer<span>.</span>
+                Welcome to Mada digital agency<span>.</span>
                 </h2>
                 <p>Nous sommes une équipe de spécialistes du marketing numérique talentueux</p>
               </div>
