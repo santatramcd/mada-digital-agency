@@ -23,7 +23,10 @@ export default function Navbar() {
             </h1>
             <span>.</span>
           </a>
-          <nav id="navmenu" className={`navmenu ${isMenuVisible ? "show" : ""}`}>
+          <nav
+            id="navmenu"
+            className={`navmenu ${isMenuVisible ? "show" : ""}`}
+          >
             <ul>
               <li>
                 <a href="#hero" className="active">
@@ -46,7 +49,12 @@ export default function Navbar() {
                 <a href="#contact">Contact</a>
               </li>
             </ul>
-            <i className="mobile-nav-toggle d-xl-none bi bi-list"  onClick={toggleMenu}></i>
+            <i
+              className={`mobile-nav-toggle d-xl-none bi ${
+                isMenuVisible ? "bi-x" : "bi-list"
+              }`}
+              onClick={toggleMenu}
+            ></i>
           </nav>
 
           <a className="btn-getstarted" href="#">
@@ -54,7 +62,6 @@ export default function Navbar() {
           </a>
         </div>
       </header>
-
     </div>
   );
 }
