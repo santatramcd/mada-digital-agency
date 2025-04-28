@@ -28,7 +28,7 @@ export default function Home() {
                     digital. Contactez-nous dès maintenant pour transformer vos
                     idées en réalité !
                   </p>
-                  <a className="cta-btn" href="#">
+                  <a className="cta-btn" href="#contact">
                     Contactez-nous
                   </a>
                 </div>
